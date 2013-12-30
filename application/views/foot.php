@@ -1,0 +1,1 @@
+&copy; 2012-2013 <a href="http://www.qianbaobao365.com">www.qianbaobao365.com</a> All Rights Reserved | 技术支持：<a href="#" target="_blank">钱宝宝</a>&nbsp;<a href="<?php echo site_url('welcome/logs');?>" target="_blank">钱宝宝更新日志</a>&nbsp;&nbsp;&nbsp;<script src="http://s14.cnzz.com/stat.php?id=4721910&web_id=4721910&show=pic" language="JavaScript"></script>
